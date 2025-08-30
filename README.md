@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Daniel-Ber
 **`Software Developer`**
 
-Sou desenvolvedor de software com foco atual em [Java / Back-end ]. Tenho paixão por tecnologia, resolução de problemas e construção de soluções eficientes que gerem impacto real.
-Atualmente, busco aprimorar minhas habilidades em desenvolvimento fullstack, contribuindo com projetos pessoais e colaborativos no GitHub.
+`Sou desenvolvedor de software com foco atual em [Java / Back-end ]. Tenho paixão por tecnologia, resolução de problemas e construção de soluções eficientes que gerem impacto real.
+Atualmente, busco aprimorar minhas habilidades em desenvolvimento fullstack, contribuindo com projetos pessoais e colaborativos no GitHub.`
 
 ---
 ### 🤖 Linguagens e tecnologias 
