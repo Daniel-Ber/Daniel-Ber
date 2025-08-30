@@ -47,6 +47,6 @@ Resumo breve sobre mim
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?usernme=Daniel-Ber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?useranme=Daniel-Ber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
 <p/>
